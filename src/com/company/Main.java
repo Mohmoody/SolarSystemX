@@ -7,5 +7,10 @@ public class Main {
         FactorX.Moon=3;
         FactorX.Planets=2;
 
+        // working on the features
+        Sun Feron= new Sun();
+        Feron.Heat="6000000000kj";
+        Feron.Radius="868465656113613251km/2";
+        Feron.Temperature="10000000000000000000000f";
     }
 }
