@@ -12,5 +12,10 @@ public class Main {
         Feron.Heat="6000000000kj";
         Feron.Radius="868465656113613251km/2";
         Feron.Temperature="10000000000000000000000f";
+
+        Planet1 gemini =new Planet1();
+        gemini.heat="78698798745";
+        gemini.radious="787345km/3";
+        
     }
 }
