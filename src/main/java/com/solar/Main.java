@@ -13,7 +13,7 @@ public class Main {
         Sun feron= new Sun();
         feron.Heat="60000000";
         feron.Radius="23425yu";
-        feron.Temperature="67578920000000f00000000000000000000000000000000000000000000000
+        feron.Temperature="67578920000000f00000000000000000000000000000000000000000000000";
 
     }
 }
