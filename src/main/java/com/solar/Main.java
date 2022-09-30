@@ -8,5 +8,12 @@ public class Main {
         factorX.sun=1;
         factorX.moon=3;
         factorX.planet=2;
+
+        // working on sun feature
+        Sun feron= new Sun();
+        feron.Heat="60000000";
+        feron.Radius="23425yu";
+        feron.Temperature="67578920000000f00000000000000000000000000000000000000000000000";
+
     }
 }
